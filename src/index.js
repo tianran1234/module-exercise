@@ -9,6 +9,4 @@ console.log(`Delicious! May I have another?`);
 
 let remaining = remove(fruit, fruits);
 
-console.log(remaining)
-
 console.log(`I'm sorry, we're all out. We have ${remaining.length} left.`);
